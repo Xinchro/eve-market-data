@@ -1,0 +1,19 @@
+{
+  "name": "eve-market-data",
+  "version": "1.0.0",
+  "description": "Item sell data for Snaz",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server"
+  },
+  "author": "Xinchro",
+  "license": "UNLICENSED",
+  "devDependencies": {
+  },
+  "dependencies": {
+    "request": "^2.81.0",
+    "express": "^4.15.3",
+    "dotenv": "^4.0.0"
+  }
+}
